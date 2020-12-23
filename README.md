@@ -8,9 +8,9 @@ Cooking is a hobby for lots of people. However, many other people consider it as
 
 Data:
 
- All data is stored on a Google Drive at Data Link On Drive. The dataset consists of almost 30,000 meals with almost 11,000 ingredients as features. Through feature-engineering, we’ve edited on the data so that it has the total-cook-time, the user rating and the user ID added as new features, beside the ingredients. This new version of data is meant to be our training dataset. 
+ All data is stored on a Google Drive at https://drive.google.com/drive/u/0/folders/1a3Nxrxf2UAoDdS2YfncKP8l6my8VsVrq?fbclid=IwAR0PwKXS2MErS5VnRT2D73mQFyVIGhQ95JpcmarSVFSdjtjsFQJ6CaPkW3Q. The dataset consists of almost 30,000 meals with almost 11,000 ingredients as features. Through feature-engineering, we’ve edited on the data so that it has the total-cook-time, the user rating and the user ID added as new features, beside the ingredients. This new version of data is meant to be our training dataset. 
 
-Note:You can find the full documentation of our project here: Project Documentation
+Note:You can find the full documentation of our project here: https://docs.google.com/document/d/1SsGdFLBqSfiDEL2W8foLKzHVjvzubgSahNRj6R_TrY4/edit?fbclid=IwAR0AS3tG8_gqlgKiBIEuDJ9O59wxWA7XbsTfUJAPiUwWHpkytG9wsmosoJE#
 
 
 
