@@ -1,0 +1,52 @@
+<%- include ('header') ; -%>
+<img id="LOGO" src="images/Logo.png">
+<div class="wrap-signup">
+    <span class="login100-form-title p-b-34 p-t-27">
+        Sign Up
+    </span>
+    <form class="login100-form validate-form" action='/CreateAcount' method="POST">
+
+
+
+
+        <div class="wrap-input100 validate-input" data-validate = "Enter Email">
+            <input class="input100" type="email" value="<%=data.email %>" id="email" name="email" placeholder="Email">
+            <span class="focus-input100" data-placeholder="&#x1f4E7;"></span>
+        </div>
+
+        <div class="wrap-input100 validate-input" data-validate = "Enter username">
+            <input class="input100" type="text" value="<%=data.username %>" id="username" name="username" placeholder="Username">
+            <span class="focus-input100" data-placeholder="&#xf207;"></span>
+        </div>
+
+        <div class="wrap-input100 validate-input" data-validate="Enter password">
+            <input class="input100" type="password" id="password" name="password" placeholder="Password">
+            <span class="focus-input100" data-placeholder="&#xf191;"></span>
+        </div>
+        <div class="contact100-form-checkbox">
+            <a class="txt1" href="/Login">
+                If you have an account
+            </a>
+        </div>
+
+
+        <div class="container-login100-form-btn">
+            <a class="text1"href="/Skills"><button class="signup-form-btn" type="submit">Next</button></a>
+            </div>
+
+    </form>
+
+
+
+</div>
+
+
+
+
+           <!--تسكيرة الديف الكبيرة-->
+        </div>
+        <!--تسكيرة الديف تبعت الصورة "الباكجراوند"-->
+       </div>
+
+       </body>
+       </html>
